@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "homepage": "https://aaatofu.github.io/art",
+  "homepage": "https://tofutest.github.io/art",
   "scripts": {
     "dev": "npx vite",
     "build": "npx vite build",
